@@ -1,5 +1,5 @@
 # Trabajo-Extra-Tercer-Parcial
-TEMA: PRÁCTICA No. 8 INDUCTOR Y CAPACITOR
+TEMA: Trabajo extra Tercer parcial
 
 ESTUDIANTE:MENESES JARRIN SANTIAGO JAVIER 
     
